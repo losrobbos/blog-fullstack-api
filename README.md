@@ -1,7 +1,12 @@
 # blog-fullstack-api
 
-After cloning
-- Install packages: `npm i`
+This is the API part of a fullstack mini blog project.
+
+Find the frontend part at: https://github.com/losrobbos/blog-fullstack-ui
+
+## Setup after cloning
+
+Install packages: `npm i`
 
 Creating a database
 - Fill in your Mongo Database Cloud URL (e.g. ATLAS) in an .env file
